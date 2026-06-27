@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Data (Protect your privacy)
+input/
+output/
+*.tcx
+*.csv
+
+# IDEs
+.idea/
+.vscode/
+.DS_Store
